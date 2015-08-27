@@ -1,0 +1,12 @@
+.\output\heap_2.o: ..\Libirary\FreeRTOS\heap_2.c
+.\output\heap_2.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\output\heap_2.o: ..\Libirary\FreeRTOS\FreeRTOS.h
+.\output\heap_2.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\output\heap_2.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\heap_2.o: ..\Libirary\FreeRTOS\FreeRTOSConfig.h
+.\output\heap_2.o: ..\Libirary\FreeRTOS\projdefs.h
+.\output\heap_2.o: ..\Libirary\FreeRTOS\portable.h
+.\output\heap_2.o: ..\Libirary\FreeRTOS\portmacro.h
+.\output\heap_2.o: ..\Libirary\FreeRTOS\mpu_wrappers.h
+.\output\heap_2.o: ..\Libirary\FreeRTOS\task.h
+.\output\heap_2.o: ..\Libirary\FreeRTOS\list.h

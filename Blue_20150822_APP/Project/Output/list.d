@@ -1,0 +1,11 @@
+.\output\list.o: ..\Libirary\FreeRTOS\list.c
+.\output\list.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\output\list.o: ..\Libirary\FreeRTOS\FreeRTOS.h
+.\output\list.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\output\list.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\list.o: ..\Libirary\FreeRTOS\FreeRTOSConfig.h
+.\output\list.o: ..\Libirary\FreeRTOS\projdefs.h
+.\output\list.o: ..\Libirary\FreeRTOS\portable.h
+.\output\list.o: ..\Libirary\FreeRTOS\portmacro.h
+.\output\list.o: ..\Libirary\FreeRTOS\mpu_wrappers.h
+.\output\list.o: ..\Libirary\FreeRTOS\list.h
